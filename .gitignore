@@ -1,0 +1,51 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEA specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Application
+application.properties
+application.yaml
+
+# Docker
+*.env
+
+# Tests
+/test-output/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ run/debug configs
+*.run/
+
+# Coverage
+jacoco.exec
+coverage/
+
+# Local dependency caches
+.local/
+
+# Misc
+*.pid
