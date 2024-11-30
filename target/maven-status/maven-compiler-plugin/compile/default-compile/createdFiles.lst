@@ -1,0 +1,5 @@
+org/mypackage/model/User.class
+org/mypackage/controller/UserController.class
+org/mypackage/Application.class
+org/mypackage/repository/UserRepository.class
+org/mypackage/service/UserService.class
